@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const render = (RootComponent: React.ReactNode) => `
+export const render = (RootComponent: string) => `
   <!DOCTYPE html>
   <html lang="ko">
   <head>
