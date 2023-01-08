@@ -3,7 +3,7 @@ import React from 'react'
 import ReactDOMServer from 'react-dom/server'
 
 import { render } from './render'
-import Component from './component/Component'
+import Component from './component/component'
 
 const PORT = process.env.PORT || 3000
 const app = express()
